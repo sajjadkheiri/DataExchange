@@ -1,0 +1,12 @@
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/bin/Debug/net9.0/DataExchange.deps.json
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/bin/Debug/net9.0/DataExchange.dll
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/bin/Debug/net9.0/DataExchange.pdb
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/DataExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/DataExchange.AssemblyInfoInputs.cache
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/DataExchange.AssemblyInfo.cs
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/DataExchange.csproj.CoreCompileInputs.cache
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/DataExchange.sourcelink.json
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/DataExchange.dll
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/refint/DataExchange.dll
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/DataExchange.pdb
+/Users/sajjad/Documents/Project/Repository/DataExchange/DataExchange/DataExchange/obj/Debug/net9.0/ref/DataExchange.dll
