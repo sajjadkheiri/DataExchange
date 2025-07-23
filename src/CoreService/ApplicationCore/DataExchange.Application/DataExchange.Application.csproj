@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\DataExchange.Persistence\DataExchange.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

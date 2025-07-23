@@ -1,4 +1,4 @@
-﻿namespace DataExchange.Domain;
+﻿namespace DataExchange.Domain.Model;
 
 public class OutboxMessage
 {
@@ -7,6 +7,6 @@ public class OutboxMessage
     public Guid AggregateId { get; set; }
     public string Type { get; set; } // e.g., "OrderCreated"
     public string Payload { get; set; } // Serialized JSON of the domain event
-    public DateTime CreatedAt { get; set; }س
+    public DateTime CreatedAt { get; set; }
     public DateTime? ProcessedAt { get; set; }
 }

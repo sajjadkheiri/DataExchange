@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LahXcq7yNHQ=",
+  "dgSpecHash": "NkbsHGlFvlE=",
   "success": true,
-  "projectFilePath": "C:\\Personal\\Projects\\Repos\\DataExchange\\DataExchange\\src\\CoreService\\ApplicationCore\\DataExchange.Domain\\DataExchange.Domain.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/DataExchange/src/CoreService/ApplicationCore/DataExchange.Domain/DataExchange.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

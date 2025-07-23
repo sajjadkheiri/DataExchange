@@ -1,4 +1,4 @@
-﻿namespace DataExchange.Domain;
+﻿namespace DataExchange.Domain.Model;
 
 public class Order
 {
